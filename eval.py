@@ -1,4 +1,4 @@
-def c_preprocessor_conditional_expression_evaluator(expression,line_number):
+def c_eval(expression,line_number):
 
     line_number = line_number + 1  # Adjust line number for user-friendly reporting
 
