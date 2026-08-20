@@ -20,7 +20,7 @@ print(c_eval(expr,1))
 <img width="455" height="97" alt="image" src="https://github.com/user-attachments/assets/6c866087-1c7a-477a-a2c8-b69ed8186665" />
 
 ```
-expr = "!defined(23) && 123678 > 1257 || F + 12"
+expr = "!defined(FOO) && 123678 > 1257 || F + 12"
 print(c_eval(expr,1))
 ```
 <img width="452" height="114" alt="image" src="https://github.com/user-attachments/assets/e721b20b-4c58-4fe8-b8e6-9e1466dc1c39" />
