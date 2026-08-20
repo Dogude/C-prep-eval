@@ -10,7 +10,7 @@
   ```
 # Examples
 * Example assumes necessary define replacements has done.
-* If still identifier in this expression, it means it has not defined and treated as 0 in eval loop
+* If still an identifier in this expression, it means it has not defined and treated as 0 in eval loop
 * so in that example B will be treated as 0
 
 ```
